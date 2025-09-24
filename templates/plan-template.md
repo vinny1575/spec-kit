@@ -106,6 +106,7 @@ ios/ or android/
 ```
 
 **Structure Decision**: [DEFAULT to Option 1 unless Technical Context indicates web/mobile app]
+**Context**: For each phase, search the repository and/or use available context gathering tools to gather relevant information regarding the existing codebase and entities.
 
 ## Phase 0: Outline & Research
 1. **Extract unknowns from Technical Context** above:

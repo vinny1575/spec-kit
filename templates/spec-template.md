@@ -29,7 +29,7 @@
 
 ## ⚡ Quick Guidelines
 - ✅ Focus on WHAT users need and WHY
-- ❌ Avoid HOW to implement (no tech stack, APIs, code structure)
+- ❌ Avoid HOW to implement (no tech stack, APIs, code structure), but be aware of existing functionality within the project
 - 👥 Written for business stakeholders, not developers
 
 ### Section Requirements

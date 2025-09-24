@@ -35,7 +35,8 @@ $ARGUMENTS
    - **Validation checkpoints**: Verify each phase completion before proceeding
 
 5. Implementation execution rules:
-   - **Setup first**: Initialize project structure, dependencies, configuration
+   - **Setup first**: Initialize project structure (if needed), dependencies, configuration
+   - **Gather necessary code context**: Ensure you implement what is specified in context of the existing codebase. Extend existing functionality rather than rewriting everything from scratch.
    - **Tests before code**: If you need to write tests for contracts, entities, and integration scenarios
    - **Core development**: Implement models, services, CLI commands, endpoints
    - **Integration work**: Database connections, middleware, logging, external services

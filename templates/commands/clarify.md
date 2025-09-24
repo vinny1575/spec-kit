@@ -75,6 +75,13 @@ Execution steps:
    - TODO markers / unresolved decisions
    - Ambiguous adjectives ("robust", "intuitive") lacking quantification
 
+   Current Project Context:
+   - Existing codebase state (if applicable)
+   - Known dependencies on other features or systems
+   - Any existing documentation or artifacts related to the feature
+   - Recent changes or updates made to the project
+   - Any known limitations or issues affecting the feature's development
+   
    For each category with Partial or Missing status, add a candidate question opportunity unless:
    - Clarification would not materially change implementation or validation strategy
    - Information is better deferred to planning phase (note internally)
